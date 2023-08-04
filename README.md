@@ -1,3 +1,8 @@
+Gorentla Priyanka <br/>
+Aug 4th 2023 <br/>
+Module 6 <br/>
+
+I have learned below concepts:
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
 Complete the tasks in the Python Notebook in this repository.
